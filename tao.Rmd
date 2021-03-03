@@ -1,0 +1,15 @@
+---
+title: Tao
+author: "TS"
+date: "3/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Tao
+* I'm a graduate student from Animal Science Department
+* I have two cats
+* I like cooking
