@@ -1,0 +1,20 @@
+---
+title: "Marisol"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### She loves the following: 
+
+* Sports:
+  + Biking
+  + Cross-country skiing
+  + Swimming
+  
+* Hobbies
+  + Reading
+  + Camping
+  + Board games

@@ -1,0 +1,15 @@
+---
+title: "Assignment 3 Website"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Collaborators: 
+
+(1) [Marisol Valverde](https://github.com/marisol-valverde)
+(2) [Tao Sun](https://github.com/TaoSunCornell)
+
+![Github logo](https://res.cloudinary.com/practicaldev/image/fetch/s--i_sb3chq--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/fk0849hvg2rt13bpqhjy.jpg)
