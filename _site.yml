@@ -7,3 +7,9 @@ navbar:
       href: marisol.html
     - text: "Tao"
       href: tao.html  
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
