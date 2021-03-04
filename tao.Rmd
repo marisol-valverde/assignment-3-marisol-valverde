@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Tao
+# Tao
 * I'm a graduate student from Animal Science Department
 * I have two cats
 * I like cooking
